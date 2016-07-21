@@ -24,6 +24,8 @@ A curated list of awesome DevOps Security tools and resources.
 
 * [Requires.io](https://requires.io/) - Requires.io monitors the requirements of your project and notify you whenever a dependency is outdated. Supported languages: Python
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for Bundler, checks for vulnerable/insecure gems. Supported languages: Ruby
+* [White Source](http://www.whitesourcesoftware.com/) - WhiteSource automates open source management, including component detection, security vulnerability alerts, license risk and compliance analysis, policy enforcement and new version alerts. Supported languages: Python, Java, C++, C#, Ruby, JavaScript, C, PHP, Objective-C, npm, Scala, .NET, Golang
+
 
 ### Books
 
