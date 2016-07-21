@@ -7,6 +7,7 @@ A curated list of awesome DevOps Security tools and resources.
 - [1](#1)
     - [2](#2)
         - [3](#3)
+- [Security Dependency Check](#security-dependency-check)
 - [Books](#books)
 
 ## Title
@@ -16,6 +17,12 @@ A curated list of awesome DevOps Security tools and resources.
 *Text here.*
 
 * [description](https://www.example.com) - Example here
+
+### Security Dependency Check
+
+*Tools to identify and check outdated components with known, publicly disclosed vulnerabilities.*
+
+* [Requires.io](https://requires.io/) - Requires.io monitors the requirements of your project and notify you whenever a dependency is outdated. Supported languages: Python
 
 ### Books
 
