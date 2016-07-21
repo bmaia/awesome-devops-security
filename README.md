@@ -18,11 +18,12 @@ A curated list of awesome DevOps Security tools and resources.
 
 * [description](https://www.example.com) - Example here
 
-### Security Dependency Check
+### Dependency Check
 
 *Tools to identify and check outdated components with known, publicly disclosed vulnerabilities.*
 
 * [Requires.io](https://requires.io/) - Requires.io monitors the requirements of your project and notify you whenever a dependency is outdated. Supported languages: Python
+* [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for Bundler, checks for vulnerable/insecure gems. Supported languages: Ruby
 
 ### Books
 
