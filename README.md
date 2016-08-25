@@ -22,11 +22,16 @@ A curated list of awesome DevOps Security tools and resources.
 
 *Tools to identify and check outdated components with known, publicly disclosed vulnerabilities.*
 
-* [Requires.io](https://requires.io/) - Requires.io monitors the requirements of your project and notify you whenever a dependency is outdated. Supported languages: Python
-* [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for Bundler, checks for vulnerable/insecure gems. Supported languages: Ruby
-* [Retire.js](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities. Supported languages: Javascript
-* [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities. Supported languages: Java, .NET
-* [White Source](http://www.whitesourcesoftware.com/) - WhiteSource automates open source management, including component detection, security vulnerability alerts, license risk and compliance analysis, policy enforcement and new version alerts. Supported languages: Python, Java, C++, C#, Ruby, JavaScript, C, PHP, Objective-C, npm, Scala, .NET, Golang
+* [Requires.io](https://requires.io/) - Requires.io monitors the requirements of your project and notify you whenever a dependency is outdated.
+    * Supported languages: Python
+* [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for Bundler, checks for vulnerable/insecure gems.
+    * Supported languages: Ruby
+* [Retire.js](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities.
+    * Supported languages: Javascript
+* [OWASP Dependency Check](https://github.com/jeremylong/DependencyCheck) - Dependency-Check is a utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.
+    * Supported languages: Java, .NET
+* [White Source](http://www.whitesourcesoftware.com/) - WhiteSource automates open source management, including component detection, security vulnerability alerts, license risk and compliance analysis, policy enforcement and new version alerts.
+    *  Supported languages: Python, Java, C++, C#, Ruby, JavaScript, C, PHP, Objective-C, npm, Scala, .NET, Golang
 
 
 ### Books
